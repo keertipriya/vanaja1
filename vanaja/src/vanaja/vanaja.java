@@ -16,7 +16,7 @@ public class vanaja {
         sigar = s;
         System.out.println(cpuInfo());
     }
-
+//hello
     
 
     private static void startMetricTest() throws InterruptedException, SigarException {
